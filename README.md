@@ -6,7 +6,7 @@ You'll need to have Node >= 8.10 and npm >= 5.6 on your machine to run the appli
 
 ## Requirements
 
-- You must use git for source control.
+- You must use git for source control. You can use github, gitlab, bitbucket, or any git provider by signing up for a free account and sharing the project with us.
 - You must retrieve weather information from the free [Metaweather Api](https://www.metaweather.com/api/). You can retreive the user's coordinates using the browser's [Geolocation Api](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API). If a user chooses not to provide their location, you should default to "Philadelphia".
   - Note: The Metaweather Api may return data for mulitple locations. For this assignment you can just default to the first in the list.
 - You must display the weather state provided by the api (eg. "clear", "rain", etc.).
