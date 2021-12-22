@@ -35,5 +35,4 @@ Be prepared to talk about the work you did and the choices you made.
 
 When you are ready to submit your work to SofterWare be sure all changes are committed to your git repository and please do one of the following:
 
-- Zip up your git repository, host it in cloud storage (eg. Google Drive), and share a public link with your recruiter or SofterWare.
 - Push your code to your own private github repository and invite the contributor(s) of this repository to be collaborators on your private github repository. DO NOT fork this repository as this would make your work visible to other prospective candidates.
